@@ -28,10 +28,10 @@ const EnrollmentTable = () => {
         <table className="min-w-full bg-white border border-gray-200 rounded-lg">
           <thead className="bg-gray-100">
             <tr>
-              <th className="py-3 px-5 border-b text-left text-gray-700 font-medium">
+              <th className="py-3 px-5 border-b text-center text-gray-700 font-medium">
                 Year
               </th>
-              <th className="py-3 px-5 border-b text-left text-gray-700 font-medium">
+              <th className="py-3 px-5 border-b text-center text-gray-700 font-medium">
                 Number of Students
               </th>
             </tr>
