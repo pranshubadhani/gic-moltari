@@ -1,6 +1,6 @@
 // const API_URL = 'http://localhost:5000/api';
 
-const API_URL = 'https://gic-moltari.onrender.com/api;'
+const API_URL = 'https://gic-moltari.onrender.com/api';
 
 export const loginAdmin = async (username, password) => {
   const response = await fetch(`${API_URL}/admin/login`, {
